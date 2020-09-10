@@ -9,7 +9,7 @@ public class PitomnikSobak {
         int n;
          String NameOfDog;
          int Age;
-        Scanner scan = new Scanner(System.in);;
+        Scanner scan = new Scanner(System.in);
         System.out.println("Введите количество собак, которых хотите добавить");
         n=scan.nextInt();
         this.mas = new Dog[n];
