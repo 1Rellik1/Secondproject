@@ -20,7 +20,7 @@ public class Main {
        //////////Task3///////////////////
         String nameOfBook,author;
         int date,pages;
-        nameOfBook= scan.nextLine();;
+        nameOfBook= scan.nextLine();
         author= scan.nextLine();
        date= scan.nextInt();
        pages= scan.nextInt();
